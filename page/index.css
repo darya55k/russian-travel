@@ -11,7 +11,7 @@
 @import url(../blocks/header/header__lang-link/_rus/header__lang-link_rus.css);
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/_text/intro__list_text.css);
+@import url(../blocks/intro/__list-text/intro__list-text.css);
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/lead/lead.css);
