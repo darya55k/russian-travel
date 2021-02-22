@@ -1,6 +1,6 @@
 .place__link{
-    width: 456px;
-    height: 22px;
+    max-width: 456px;
+    min-height: 22px;
     left: 648px;
     font-style: normal;
     font-weight: normal;
