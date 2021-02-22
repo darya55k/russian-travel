@@ -1,0 +1,9 @@
+.header__lang-link_eng{
+    width: 29px;
+}
+@media screen and (max-width: 767px) {
+    .header__lang-link_eng{
+        width: 22px;
+        height: 20px;
+    }
+}
