@@ -1,16 +1,18 @@
-.intro{
+.intro {
     display: flex;
     flex-direction: column;
     padding-top: 92px;
     color: white;
 }
 @media screen and (max-width: 1023px) {
-    .intro{
+    .intro {
         padding-top: 88px;
+        margin-left: 24px;
+        margin-right: 24px;
     }
 }
 @media screen and (max-width: 767px) {
-    .intro{
+    .intro {
         padding-top: 64px;
         margin-left: 16px;
         margin-right: 16px;
